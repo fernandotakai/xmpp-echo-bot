@@ -10,5 +10,5 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycares==3.1.1
 pycparser==2.20
-slixmpp==1.5.1
+slixmpp==1.8.3
 yarl==1.4.2
